@@ -1,8 +1,8 @@
 <h1>👍노력하는 청년들.</h1>
 
-|<img src = "https://avatars.githubusercontent.com/u/102217780?v=4" width="100%" height="50%"/>|<img src ="https://avatars.githubusercontent.com/u/102154824?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102218665?v=4"/>|
-|:-:|:-:|:-:|
-|[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|
+|<img src = "https://avatars.githubusercontent.com/u/102217780?v=4" width="100%" height="50%"/>|<img src ="https://avatars.githubusercontent.com/u/102154824?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102218665?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102217839?v=4"/>|
+|:-:|:-:|:-:|:-:|
+|[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|[이명재](https://github.com/arkk200)|
 ## 😒똑똑한 커밋컨벤션.
 
 <h3>😑최소 2일 1회, 주제에 맞는 책을 보고 배운 내용을 작성, 커밋하여 PR 올리는 청년.</h3>
