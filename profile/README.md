@@ -5,13 +5,13 @@
 |[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|[이명재](https://github.com/arkk200)|
 <br/>
 
-## 😶‍🌫️ 자바스크립트 관련 스터디 by 강승훈, 한예준
+## 😶‍🌫️ 자바스크립트 관련 스터디 by 강승훈, 한예준, assist by 이명재
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold">
 </picture>](https://github.com/JobMarketIsCold/JavaScriptIsCold)
 
-## 😶‍🌫️ 프론트엔드 입문 스터디 by 황현민
+## 😶‍🌫️ 프론트엔드 입문 스터디 by 황현민, assist by 강승훈, 한예준
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JsStudyIsCold">
 </picture>](https://github.com/JobMarketIsCold/JsStudyIsCold)
