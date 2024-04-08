@@ -1,8 +1,8 @@
 <h1>👍노력하는 청년들.</h1>
 
-|<img src = "https://avatars.githubusercontent.com/u/102217780?v=4" width="100%" height="50%"/>|<img src ="https://avatars.githubusercontent.com/u/102154824?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102218665?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102217839?v=4"/>|
-|:-:|:-:|:-:|:-:|
-|[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|[이명재](https://github.com/arkk200)|
+|<img src = "https://avatars.githubusercontent.com/u/102217780?v=4" width="100%" height="50%"/>|<img src ="https://avatars.githubusercontent.com/u/102154824?v=4" width="100%" height="50%"/>|<img src= "https://avatars.githubusercontent.com/u/102218665?v=4" width="100%" height="50%"/>|
+|:-:|:-:|:-:|
+|[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|
 <br/>
 
 # 스터디 목록 한 눈에 보기!<br/>
@@ -12,7 +12,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=springStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=springStudyIsCold">
 </picture>](https://github.com/JobMarketIsCold/springStudyIsCold)
-## 😶‍🌫️ 자바스크립트 관련 스터디 by 강승훈, 한예준
+## 😶‍🌫️ 자바스크립트 스터디 by 강승훈, 한예준
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold">
@@ -28,6 +28,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=FullStackStudyIsCold">
 </picture>](https://github.com/JobMarketIsCold/FullStackStudyIsCold)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactMiddleClassIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=ReactMiddleClassIsCold">
+</picture>](https://github.com/JobMarketIsCold/ReactMiddleClassIsCold)
 ## 😒똑똑한 커밋컨벤션.
 
 <h3>😑최소 2일 1회(학교생활 중에는 유동적으로), 주제에 맞는 스터디를 하고 배운 내용을 작성, 커밋하여 PR 올리는 청년.</h3>
