@@ -5,7 +5,14 @@
 |[강승훈](https://github.com/HUN1i)|[한예준](https://github.com/sebanimm)|[황현민](https://github.com/hyunmin200)|[이명재](https://github.com/arkk200)|
 <br/>
 
-## 😶‍🌫️ 자바스크립트 관련 스터디 by 강승훈, 한예준, assist by 이명재
+# 스터디 목록 한 눈에 보기!<br/>
+
+## 😶‍🌫️ Spring 스터디 by 강승훈
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=springStudyIsCold&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=springStudyIsCold">
+</picture>](https://github.com/JobMarketIsCold/springStudyIsCold)
+## 😶‍🌫️ 자바스크립트 관련 스터디 by 강승훈, 한예준
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=JobMarketIsCold&repo=JavaScriptIsCold">
